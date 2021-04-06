@@ -1,0 +1,39 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.header2{
+    height:100%;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(hiking.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.header3{
+    height:100%;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.banner-high {
+    padding-top: 150px;
+    text-align: center;
+    color: seashell;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.banner-high h1 {
+    padding-top: 70px;
+    padding-bottom: 0;
+    font-size: 55px;
+    color: rgb(250, 249, 244);
+}
+.jumbotron{
+    padding-top: 20px;
+    margin: 20px ;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
